@@ -38,8 +38,8 @@ Below screenshots demonstrating the app’s interface:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/home-services-crafts.git
-   cd home-services-crafts
+   git clone https://github.com/mohamed-ladjal-AI/icraft
+   cd icraft
    ```
 
 2. **Install Dependencies**:
